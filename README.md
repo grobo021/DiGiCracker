@@ -20,20 +20,20 @@ gh repo clone techno021/DiGiCracker
 
 - Plug in the credentials
   - `./FlameDetector/src/credentials.h`
-  Change `ssid` to your WiFi ssid
-  Change `password` to your WiFi password
-  Change `mqttServer` to your MQTT Server domain
-  Change `mqttPort` to your MQTT Server port
-  Change `mqttUser` to your MQTT Username
-  Change `mqttPassword` to your MQTT Password
-  Change `mqttTopic` to yout MQTT Topic
+    - Change `ssid` to your WiFi ssid
+    - Change `password` to your WiFi password
+    - Change `mqttServer` to your MQTT Server domain
+    - Change `mqttPort` to your MQTT Server port
+    - Change `mqttUser` to your MQTT Username
+    - Change `mqttPassword` to your MQTT Password
+    - Change `mqttTopic` to yout MQTT Topic
 
   - `./NoiseMachine/credentials.py`
-  Change `server` to your MQTT Server domain
-  Change `port` to your MQTT Server port
-  Change `user` to your MQTT Username
-  Change `password` to your MQTT Password
-  Change `topic` to yout MQTT Topic
+    - Change `server` to your MQTT Server domain
+    - Change `port` to your MQTT Server port
+    - Change `user` to your MQTT Username
+    - Change `password` to your MQTT Password
+    - Change `topic` to yout MQTT Topic
 
 - Run it!
   ```bash
