@@ -47,7 +47,7 @@ gh repo clone techno021/DiGiCracker
   ```
 
 # Lisence
-This Project is LISENCED under the MIT LISENCE. More details [here](./LISENCE.md)
+This Project is LISENCED under the MIT LISENCE. More details [here](https://github.com/techno021/DiGiCracker/blob/main/LICENSE.md).
 
 # Credits
 - [@Techno021](https://github.com/techno021) - Did basically everything
