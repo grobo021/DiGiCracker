@@ -37,17 +37,17 @@ gh repo clone techno021/DiGiCracker
 
 - Run it!
   ```bash
-  # I'm assuming you are at the project root
+  # Connect your esp2866 and run these commands
   cd ./FlameDetector
   pio run
 
-  # In a different terminal
+  # You can run this python script on a pc/chip connected to your speaker(s)
   cd ./NoiseMachine
   python init.py
   ```
 
 # Lisence
-This Project is LISENCED under the MIT LISENCE. More details [here](https://github.com/techno021/DiGiCracker/blob/main/LICENSE.md).
+This Project is LICENCED under the MIT LICENCE. More details [here](https://github.com/techno021/DiGiCracker/blob/main/LICENSE.md).
 
 # Credits
 - [@Techno021](https://github.com/techno021) - Did basically everything
